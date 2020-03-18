@@ -10,9 +10,9 @@ class MyApp extends StatelessWidget {
       title: 'DEHAB wallet',
       theme: ThemeData(
         // This is the theme of your application
-        primarySwatch: Colors.blueGrey,
+        primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MyHomePage(title: 'Home'),
     );
   }
 }
